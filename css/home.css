@@ -7,3 +7,8 @@ header, footer {
     text-align: center;
     padding: 10px;
 }
+
+main {
+    margin: 20px;
+    color: #333;
+}
